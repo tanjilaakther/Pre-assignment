@@ -36,7 +36,7 @@ function UserInfoDetails() {
                   <li>email: {userData.email}</li>
                   <li>phone: {userData.phone}</li>
                   <li>website: {userData.website}</li>
-                  { /*
+                  
                   <li>company: {userData.company.name}</li>
                   <li>
                       adress: 
@@ -47,7 +47,7 @@ function UserInfoDetails() {
                           <li>zipcode: {userData.address.zipcode}</li>
                       </ul>
                   </li>
-                  */}
+                  
               </ul>
           </ReactBootstrap.Card>
       </ReactBootstrap.Container>
